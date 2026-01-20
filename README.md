@@ -1,4 +1,4 @@
-# Day-5-Project
+# Project 5
 
 # Password Generator
 
